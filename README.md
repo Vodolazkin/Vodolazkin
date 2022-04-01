@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I'm Artem
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀 FullStack JS Developer</h3>
-<div flex-direction="row" align="center">
-Contact: 
- <br/>
-<a href='https://mail.yandex.ru/compose?mailto=tarasow66@ya.ru'><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/><a/>
- <br/>
- 
- <a href='https://t.me/Vodolazin'><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/><a/>
- <br>
-  <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/><br>
-  7917 251 32 64
-</div>
 
 <br/>
 <div align="center">
@@ -42,7 +31,22 @@ Contact:
   <a href='#'><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
   <a href='#'><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href='#'><img src="https://img.icons8.com/color/48/000000/java-web-token.png"/></img></a>
-  
-  </br>
-  </br>
  
+  </br>
+   <hr>
+  </br>
+  
+ <div flex-direction="row" align="center">
+Contact: 
+ <br/>
+<a href='https://mail.yandex.ru/compose?mailto=tarasow66@ya.ru'><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/><a/><br>
+ tarasow66@ya.ru
+ <br/>
+ 
+ <a href='https://t.me/Vodolazin'><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/><a/><br>
+  https://t.me/Vodolazin
+ <br>
+  <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/><br>
+  7917 251 32 64
+</div>
+
