@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 Contact: 
  <br/>
 <a href='https://mail.yandex.ru/compose?mailto=tarasow66@ya.ru'><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/><a/><br>
- tarasow66@ya.ru
+ tarasowit@ya.ru
  <br/>
  
  <a href='https://t.me/Vodolazin'><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/><a/><br>
-  https://t.me/Vodolazin
+  https://t.me/tarasovIT
  <br>
   <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/><br>
-  7917 251 32 64
+  +7 917 251 32 64
 </div>
 
