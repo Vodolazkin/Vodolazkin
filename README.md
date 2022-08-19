@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I'm Artem
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀 FullStack JS Developer</h3>
-       
+        
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
