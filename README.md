@@ -49,7 +49,7 @@ Contact:
   https://t.me/tarasovIT
  <br>
   <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/><br>
-  +7 917 251 32 64   
+  +7 917 251 32 64    
   
 </div>
 
