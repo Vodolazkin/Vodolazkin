@@ -44,7 +44,7 @@ Contact:
 <a href='https://mail.yandex.ru/compose?mailto=tarasow66@ya.ru'><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/><a/><br>
  tarasowit@ya.ru
  <br/>
- 
+  
  <a href='https://t.me/Vodolazin'><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/><a/><br>
   https://t.me/tarasovIT
  <br>
