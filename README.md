@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <a href='#'><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href='#'><img src="https://img.icons8.com/color/48/000000/java-web-token.png"/></img></a>
   <a href='#'><img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/></img></a>
+  <a href='#'><img src="https://img.icons8.com/color/48/000000/webpack.png"/></img></a>
+  <a href='#'><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></img></a>
+  
  
   </br>
    <hr>
